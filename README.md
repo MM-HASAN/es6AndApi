@@ -1,3 +1,1 @@
-# es6AndApi
-# es6practice
-# advanceJsPractice
+# DestructureObject_arraydestructure_complexobject
